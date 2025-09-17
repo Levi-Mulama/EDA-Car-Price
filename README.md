@@ -7,7 +7,7 @@ Through **data preprocessing, feature engineering, and visualization**, we ident
 
 ##  Project Structure
 
-```text
+```
 EDA/
 │── car_data.csv # Raw dataset
 │── EDA.ipynb # Jupyter Notebook with the analysis
@@ -16,6 +16,7 @@ EDA/
 ├── price_distribution.png
 ├── age_vs_price.png
 ├── power_vs_price.png
+```
 
 ---
 
