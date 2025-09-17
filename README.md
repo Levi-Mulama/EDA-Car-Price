@@ -79,5 +79,5 @@ Cars with higher max power generally have higher selling prices.
 
 ---
 
-Author:  Levi Mulama.
-Aspiring Data Analyst | IT Personnel | Data Science Enthusiast
+**Author:**  Levi Mulama.
+- Aspiring **Data Analyst | IT Personnel | Data Science Enthusiast**
